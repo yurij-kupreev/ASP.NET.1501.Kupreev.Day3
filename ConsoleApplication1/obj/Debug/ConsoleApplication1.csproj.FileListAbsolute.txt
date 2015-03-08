@@ -1,0 +1,8 @@
+D:\epam courses\ASP.NET.1501.Kupreev.Day3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\epam courses\ASP.NET.1501.Kupreev.Day3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\epam courses\ASP.NET.1501.Kupreev.Day3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\epam courses\ASP.NET.1501.Kupreev.Day3\ConsoleApplication1\bin\Debug\Task1.dll
+D:\epam courses\ASP.NET.1501.Kupreev.Day3\ConsoleApplication1\bin\Debug\Task1.pdb
+D:\epam courses\ASP.NET.1501.Kupreev.Day3\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\epam courses\ASP.NET.1501.Kupreev.Day3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\epam courses\ASP.NET.1501.Kupreev.Day3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
