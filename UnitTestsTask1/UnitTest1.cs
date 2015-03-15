@@ -49,6 +49,16 @@ namespace UnitTestsTask1
             var a = (new Polynomial(2, 3, 4, 5) * new Polynomial(1, 0, 3)).ToString();
             Assert.AreEqual("15*x^5 + 12*x^4 + 14*x^3 + 10*x^2 + 3*x^1 + 2", a);
         }
+        public void PolynomialOperatorsTest4()
+        {
+            Polynomial a = new Polynomial(new double[] { 1.1, 2.2, 3.3, 0, -14.4 });
+            Polynomial b = new Polynomial(new double[] { 1.1, 2.2, 3.3, 0, -14.4 });
+            Polynomial expected = new Polynomial(new double[] { 0, 0, 0, 0, 0 });
+
+            Polynomial result = a - b;
+
+            Assert.AreEqual(expected, result);
+        }
         [TestMethod]
         public void PolynomialCalculateTest1()
         {
